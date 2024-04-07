@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    border-bottom: 3px solid black;
+    margin: 5px 10px 15px 10px;
+    width: 12px;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+footer {
+background-color: black;
+padding: 3px;
+}
+
+footer p{
+    background-color: white;
+
+}
+
+.cat{
+    margin: 25px;
+    border-left: 10px dotted black;
+}
+
+.dog{
+    padding-top: 30px;
+    margin-left: 20px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+main p{
+    border: 2px solid black;
+    border-radius:10px ;
+}
